@@ -1,6 +1,8 @@
 
-<p align="center"><img src="marielfotoperfil.jpg" height="230" /> </p>
-
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230" />
+</p>
+<hr>
 <h1 align="center">I'm <a href="https://github.com/MarielRo">Mariel Rojas<a><img
         src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <Br>
