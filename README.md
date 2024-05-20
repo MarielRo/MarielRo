@@ -1,4 +1,5 @@
 <!--Mariel Rojas CV-->
+<!--14/12/2023-->
 
 
 <p align="center">
@@ -10,19 +11,18 @@
 <hr>
 <h3> Here's some facts about me: </h3>
 <ul>
-  <li>💻 I am a technician in computer application programming.</li>
-  <li>📱 I am a technician in electronics and I am currently finishing my bachelor’s degree</li>
-  <li>🎓 I am studying Python.</li>
+  <li>💻 I'm a technician in computer application programming.</li>
+  <li>📱 I'm a technician in electronics and I am currently finishing my bachelor’s degree</li>
+  <li>🎓 I'm studying Python.</li>
   <li>🌐 Spanish is my native language, and I possess a B2+ level of proficiency in English.</li>
   <li>💬 I am looking for a position where I can put my skills to the test and contribute effectively.</li>
+  <li>🌱 I'm from Costa Rica</li>
 </ul>
 <br>
-
+<hr>
 <h3> Languages and Tools: </h3>
-
 <p align="left">
-
-<table border="1">
+<table border="2">
   <tr>
     <td><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
@@ -107,14 +107,53 @@
   </tr>
 </table>
 </p>
-
-
-
-
-tps://apple.com" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons /skills/macos-colored.svg"
-      width="36" height="36" alt="MacOS" />
-  </a>
+<br>
+<hr>
+<h3> Portfolio: </h3>
+<ul>
+  <li>
+    <strong><a href="https://github.com/MarielRo/CursoPseint" target="_blank">Lógica Computacional:</a></strong><br>
+    Course in Computational Logic, multiple classwork and practical exercises were completed, and two final projects were done in Pseint: one was a Memory game and the other a PlayFair cipher. 140 hours. 
+  </li>
+  <br>
+  <li>
+    <strong><a href="https://github.com/MarielRo/Curso-C-/tree/main" target="_blank">Aplicaciones Informáticas con Programación Estructurada:</a></strong><br>
+    Structured programming course, C++ language was used, three final projects were programmed: a BlackJack game, a domino game, and another called Minjlieff. Apart from the classwork and assignments. 113 hours.
+  </li>
+  <br>
+  <li>
+    <strong><a href="https://github.com/MarielRo/Curso-Base-de-Dato-MySQL" target="_blank">Gestión de Bases de Datos</a></strong><br>
+    Database management course, where databases were designed in MySQL. The final project was a university enrollment database. 130 hours.
+  </li>
+  <br>
+  <li>
+    <strong><a href="https://github.com/MarielRo/Curso-P-ginas-Web" target="_blank">Creación de Páginas Web:</a></strong><br>
+    Web Page Creation course, where HTML, CSS, and JavaScript were used. Additionally, there was some learning about Node.js, Materialize, Angular, and Bootstrap. However, for the final project, these tools couldn't be used. The final project consisted of a website for a company. 150 hours.
+  </li>
+  <br>
+  <li>
+    <strong><a href="https://github.com/MarielRo/Curso_Java" target="_blank">Programación Orientada a Objetos:</a></strong><br>
+    A 190-hour course focusing on the layered model using the C# language. For the final project, both a web application and a desktop application were developed, which involved the management of a medical clinic. Multiple tasks and assignments were completed during the course.
+  </li>
+  <br>
+  <li>
+    <strong><a href="https://github.com/MarielRo/Curso_Java" target="_blank">Programación de Aplicaciones Empresariales en Ambiente Web:</a></strong>
+    In this course, Apache NetBeans was used for Java programming. Tasks and assignments were completed in class, as well as a project involving a desktop application and another web application where a billing system for a veterinary clinic was implemented. The course lasted 164 hours.
+    <br>
+  </li>
+</ul>
+<hr>
+<br>
+<h2 align="center">Get in Touch! 📬</h2>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mariel-rojas-s%C3%A1nchez-5b41b9205/" target="blank"><img align="center"
+      src="https://img.shields.io/badge/Mariel Rojas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp; <a href="mailto:marielrojas50@gmail.com" target="blank"><img align="center"
+      src="https://img.shields.io/badge/marielrojas50@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp; <a href="https://github.com/MarielRo" target="blank"><img align="center"
+      src="https://img.shields.io/badge/Mariel-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
 
 
