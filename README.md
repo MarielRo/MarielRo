@@ -12,11 +12,11 @@
 <h3> Here's some facts about me: </h3>
 <ul>
   <li>💻 I'm a technician in computer application programming.</li>
-  <li>📱 I'm a technician in electronics and I am currently finishing my bachelor’s degree</li>
+  <li>📱 I'm a technician in electronics and I am currently finishing my bachelor’s degree.</li>
   <li>🎓 I'm studying Python.</li>
   <li>🌐 Spanish is my native language, and I possess a B2+ level of proficiency in English.</li>
   <li>💬 I am looking for a position where I can put my skills to the test and contribute effectively.</li>
-  <li>🌱 I'm from Costa Rica</li>
+  <li>🌱 I'm from Costa Rica.</li>
 </ul>
 <br>
 <hr>
@@ -74,7 +74,7 @@
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
           width="36" height="36" alt="HTML5" />
       </a></td>
-    <td><a href="https://angular.io/" target="_blank" rel="noreferrer"><img
+    <td><a href="https://angular.io" target="_blank" rel="noreferrer"><img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/iconos/habilidades/angularjs-colored.svg"
           width="36" height="36" alt="Angular" />
       </a></td>
