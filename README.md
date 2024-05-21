@@ -14,7 +14,7 @@
   <li>💻 I'm a technician in computer application programming.</li>
   <li>📱 I'm a technician in electronics and I am currently finishing my bachelor’s degree.</li>
   <li>🎓 I'm studying Python.</li>
-  <li>🌐 Spanish is my native language, and I possess a B2+ level of proficiency in English.</li>
+  <li>🌐 Spanish is my native language, and I have a B2+ level of proficiency in English.</li>
   <li>💬 I am looking for a position where I can put my skills to test and contribute effectively.</li>
   <li>🌱 I'm from Costa Rica.</li>
 </ul>
